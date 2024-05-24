@@ -1,8 +1,8 @@
 import React from 'react'
 import { NavigationContainer } from '@react-navigation/native'
 import { createNativeStackNavigator } from '@react-navigation/native-stack'
-import Login from './nubank-clone/src/views/Login/index'
-import Home from './nubank-clone/src/views/Home/index'
+import Login from './src/views/Login/index'
+import Home from './src/views/Home/index'
 
 const Stack = createNativeStackNavigator();
 
